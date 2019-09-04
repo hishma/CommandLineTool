@@ -2,7 +2,8 @@
 
 Example command line tool written in swift.
 
-This uses the `Uitlity` package that is part of the [Swift Package Manager](https://swift.org/package-manager/) to process command line arguments in a type safe way (unlike getopt).
+
+This uses the `SPMUtility` package that is part of the [Swift Pakcage Manager](https://swift.org/package-manager/) to process command line arguments in a type safe way (unlike getopt).
 
 ## Install and build
 
@@ -15,4 +16,3 @@ This uses the `Uitlity` package that is part of the [Swift Package Manager](http
 
 1. `swift package generate-xcodeproj`
 1. `open CommandLineTool.xcodeproj`
-
